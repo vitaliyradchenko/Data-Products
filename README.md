@@ -22,7 +22,7 @@ Shiny Application
 App published from RStudio to ShinyApps.io
 See http://shiny.rstudio.com/tutorial/lesson7/ for details.
 
-My shiny app is here: https://paulfoellbach.shinyapps.io/DevDatProduct
+My shiny app is here:  https://vitaliyradchenko.shinyapps.io/Project
 
 Reproducible Pitch Presentation
 
