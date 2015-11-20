@@ -26,4 +26,4 @@ My shiny app is here:  https://vitaliyradchenko.shinyapps.io/Project
 
 Reproducible Pitch Presentation
 
-My R Presentation is published at http://rpubs.com/kfe42g/93291.
+My R Presentation is published at http://rpubs.com/vradchenko/data_products_project.
